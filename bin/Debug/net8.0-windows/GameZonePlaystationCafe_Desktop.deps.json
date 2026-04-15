@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GameZonePlaystationCafe_Desktop/1.0.0": {
+        "runtime": {
+          "GameZonePlaystationCafe_Desktop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameZonePlaystationCafe_Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
